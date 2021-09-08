@@ -1,0 +1,44 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #000000;
+}
+
+#wrapper {
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1{
+    font-weight: normal;
+    font-size: 50px;
+    color: #FFFFFF;
+}
+
+h2{
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p{
+    font-size: 21px;
+    color: gray;
+}
+
+p a{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
