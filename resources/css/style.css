@@ -1,4 +1,5 @@
 * {
+    color: #FFFFFF;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
@@ -19,26 +20,26 @@ body {
 h1{
     font-weight: normal;
     font-size: 50px;
-    color: #FFFFFF;
 }
 
 h2{
-    color: #FFFFFF;
     font-weight: 300;
     font-size: 42px;
 }
 
 p{
     font-size: 21px;
-    color: gray;
 }
 
-p a{
+.cta{
     color: aquamarine;
     font-size: 16px;
 }
 
-footer {
+footer p{
     text-align: right;
+}
+
+.gray {
     color: gray;
 }
